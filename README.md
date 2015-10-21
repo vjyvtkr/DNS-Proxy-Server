@@ -17,6 +17,9 @@ Compiling and Running
    #java DNSProxyServer 'IP of Nameserver' 'Port for opening Socket' 'Cache_Size'
 
    (All arguments without quotes)
+   
    -> IP of Nameserver is the IP of your local DNS Server.
+   
    -> Port number on which a temporary socket for connection between Terminal and you application should listen.
+   
    -> The 'Cache_Size' is the number of entries you want to cache in the server.
