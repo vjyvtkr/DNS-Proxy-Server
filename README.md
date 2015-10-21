@@ -13,6 +13,7 @@ Compiling and Running
    DNSProxyServer -> DNSProxyServer.java
    -------------------------------------
    #javac DNSProxyServer.java
+   
    #java DNSProxyServer 'IP of Nameserver' 'Port for opening Socket' 'Cache_Size'
 
    (All arguments without quotes)
