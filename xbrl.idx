@@ -1,0 +1,12 @@
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2011
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+
+
+
+
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+1000069|EMPIRIC FUNDS, INC|485BPOS|2011-02-18|edgar/data/1000069/0000894189-11-000620.txt
+1000228|HENRY SCHEIN INC|10-K|2011-02-22|edgar/data/1000228/0001000228-11-000014.txt
